@@ -1,6 +1,8 @@
 Introduction
 ============
 
+[![Join the chat at https://gitter.im/alibaba/ali_kernel_rpm](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/alibaba/ali_kernel_rpm?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Alibaba Kernel is originated by [Alibaba](http://en.wikipedia.org/wiki/Alibaba_Group), the largest e-commerce website in Asia. It is based on RHEL6 source codes and included some updates and new features need by Alibaba.
 For more information and documentation, please refer to
 http://kernel.taobao.org
